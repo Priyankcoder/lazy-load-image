@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 200vh;
+}
+
+img {
+  border: solid 1px red;
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
